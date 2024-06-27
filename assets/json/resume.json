@@ -24,27 +24,34 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Ingeteam",
+      "position": "Software Engineer, Automation Devices",
+      "url": "https://www.ingeteam.com",
+      "startDate": "2022-11",
+      "endDate": "2023-07",
+      "summary": "Research and implementation of Deep Learning models for predictive maintenance with vibration analysis.",
+      "highlights": ["Deep Learning", "Signal Processing"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+      "name": "Tecnalia",
+      "position": "Reinforcement Learning Researcher",
+      "url": "https://www.tecnalia.com",
+      "startDate": "2024-01",
+      "endDate": "2024-07",
+      "summary": "Research Large Language Models to guide Reinforcement Learning agents, enhancing training performance.",
+      "highlights": ["Reinforcement Learning", "LLMs"]
+    },
+    {
+      "name": "BiSKY Team",
+      "position": "Avionics Engineer",
+      "url": "https://www.biskyteam.com",
+      "startDate": "2020-10",
+      "endDate": "Present",
+      "summary": "Developed low-level firmware for rocket avionics systems within a university research group.",
+      "highlights": ["C", "Electronics", "Space Engineering"]
+    },
   ],
+  "volunteer": [],
   "education": [
     {
       "institution": "University of the Basque Country, Bilbao, Spain",
@@ -58,25 +65,32 @@
       "courses": [""]
     },
     {
-      
-    }
-  ],
-  "awards": [
+      "institution": "University of the Basque Country, Donostia, Spain",
+      "location": "Donostia, Spain",
+      "url": "https://www.ehu.eus/",
+      "area": "Artificial Intelligence and Machine Learning",
+      "studyType": "MSc",
+      "startDate": "2023",
+      "endDate": "2024",
+      "score": "",
+      "courses": [""]
+    },
     {
-    }
+      "institution": "University of the Basque Country, Bilbao, Spain",
+      "location": "Bilbao, Spain",
+      "url": "https://www.ehu.eus/",
+      "area": "Computer Science",
+      "studyType": "PhD",
+      "startDate": "2024",
+      "endDate": "Present",
+      "score": "",
+      "courses": ["Reinforcement Learning", "Robotics", "LLMs"]
+    },
   ],
-  "certificates": [
-    {
-    }
-  ],
-  "publications": [
-    {
-    }
-  ],
-  "skills": [
-    {
-    }
-  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
   "languages": [
     {
       "language": "Spanish",
@@ -99,40 +113,7 @@
       "icon": "🇨🇳"
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "interests": [],
+  "references": [],
+  "projects": []
 }
