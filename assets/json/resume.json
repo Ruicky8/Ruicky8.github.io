@@ -4,23 +4,8 @@
     "label": "Ph.D student",
     "image": "",
     "email": "ruizgonzalezunai@gmail.com",
-    "phone": "",
     "url": "https://ruicky8.github.io/",
     "summary": "Reinforcement Learning and Robotics",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
-    },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
-    ]
   },
   "work": [
     {
@@ -51,7 +36,6 @@
       "highlights": ["C", "Electronics", "Space Engineering"]
     },
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "University of the Basque Country, Bilbao, Spain",
@@ -87,10 +71,6 @@
       "courses": ["Reinforcement Learning", "Robotics", "LLMs"]
     },
   ],
-  "awards": [],
-  "certificates": [],
-  "publications": [],
-  "skills": [],
   "languages": [
     {
       "language": "Spanish",
@@ -112,8 +92,5 @@
       "fluency": "Proficient (HSK3.1)",
       "icon": "🇨🇳"
     }
-  ],
-  "interests": [],
-  "references": [],
-  "projects": []
+  ]
 }
