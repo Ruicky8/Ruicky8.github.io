@@ -6,11 +6,13 @@
     "email": "ruizgonzalezunai@gmail.com",
     "url": "https://ruicky8.github.io/",
     "summary": "Reinforcement Learning and Robotics",
-    "profiles": [{
-      "network": "LinkedIn",
-      "username": "Unai Ruiz Gonzalez",
-      "url": "https://www.linkedin.com/in/unai-ruiz-gonzalez-603127210/?locale=en-US"
-    }]
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Unai Ruiz Gonzalez",
+        "url": "https://www.linkedin.com/in/unai-ruiz-gonzalez-603127210/?locale=en-US"
+      }
+    ]
   },
   "work": [
     {
